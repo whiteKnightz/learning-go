@@ -1,0 +1,13 @@
+{
+  "requestType": "REGRESSION",
+  "hasHeaders": true,
+  "inferSchema": true,
+  "features": [
+    "AT",
+    "V",
+    "AP",
+    "RH"
+  ],
+  "labelCol": "PE",
+  "name": "Iris dataset clusturing"
+}
